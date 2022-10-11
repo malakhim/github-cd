@@ -15,4 +15,4 @@
             with:
               heroku_api_key: ${{secrets.HEROKU_API_KEY}}
               heroku_app_name: "usyd-cd-app"
-              heroku_email: "by_wu@hotmail.com
+              heroku_email: "by_wu@hotmail.com"
